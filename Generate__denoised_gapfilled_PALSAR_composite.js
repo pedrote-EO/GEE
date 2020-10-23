@@ -10,9 +10,6 @@
 // 1 - INITIAL SETTINGS (Input needed)
 /////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-// scale for output
-var a_scale = 25;
-
 // Set the year for PALSAR/PALSAR-2 annual mosaic. Set the same year for both if you only one 1 year output, or different for temporal composite
 // PALSAR/PALSAR-2 mosaics available so far in GEE: 2007,2008,2009,2010,2015,2016,2017,(2018, 2019, and ahead should be available in the future)
 var YiniDate = 2015;
